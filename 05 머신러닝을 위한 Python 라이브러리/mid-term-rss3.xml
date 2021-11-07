@@ -1,0 +1,5247 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+<channel>
+<title>기상청 육상 중기예보</title>
+<link>http://www.kma.go.kr/weather/forecast/mid-term_02.jsp</link>
+<description>기상청 날씨 웹서비스</description>
+<language>ko</language>
+<generator>기상청</generator>
+<pubDate>2021년 07월 23일 (금)요일 06:00</pubDate>
+ <item>
+<author>기상청</author>
+<category>육상중기예보</category>
+<title>서울,경기도 육상 중기예보 - 2021년 07월 23일 (금)요일 06:00 발표</title>
+<link>http://www.kma.go.kr/weather/forecast/mid-term_02.jsp</link>
+<guid>http://www.kma.go.kr/weather/forecast/mid-term_02.jsp</guid>
+<description>
+	<header>
+		<title>서울,경기도 육상중기예보</title>
+		<tm>202107230600</tm>
+		<wf><![CDATA[○ (기온) 이번 예보기간 아침최저기온은 24~26도, 낮최고기온은 32~35도로 어제(22일, 아침최저기온 23~27도, 낮최고기온 34~36도)와 비슷하거나 조금 낮겠습니다. <br />○ (해상) 서해중부해상의 물결은 1.0~2.0m로 일겠습니다.<br /> <br /> * 이번 예보기간 동안 우리나라는 북태평양고기압 영향을 받으면서 수도권 대부분 지역에서 낮최고기온이 33도 이상으로 덥겠고, <br />   밤에는 서울과 인근 도시에서 아침최저기온이 25도 이상을 유지하는 열대야가 나타나는 곳이 있겠습니다.]]></wf>
+	</header>
+	<body>
+				
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>서울</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>26</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>26</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-07-31 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>26</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>26</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>26</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>인천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>26</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>26</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-07-31 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>수원</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-07-31 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>파주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-07-31 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>이천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-07-31 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>평택</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-07-31 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>백령도</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-07-31 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>과천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-07-31 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>광명</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>26</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>26</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>26</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>26</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>26</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>26</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-07-31 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>26</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>강화</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-07-31 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>김포</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-07-31 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>시흥</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-07-31 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>안산</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-07-31 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>부천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-07-31 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>의정부</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-07-31 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>고양</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-07-31 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>양주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-07-31 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>동두천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-07-31 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>연천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>21</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>21</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>21</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>21</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-07-31 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>포천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-07-31 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>가평</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>21</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>21</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>21</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>21</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-07-31 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>구리</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-07-31 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>26</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>남양주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-07-31 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>양평</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-07-31 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>하남</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-07-31 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>안양</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-07-31 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>26</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>오산</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-07-31 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>화성</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-07-31 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>성남</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-07-31 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>의왕</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-07-31 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>군포</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-07-31 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>안성</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-07-31 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>용인</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-07-31 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>광주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-07-31 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>여주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-26 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-27 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-28 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-29 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-07-30 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-07-31 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2021-08-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+
+	
+
+	</body>
+</description>
+</item>
+</channel>
+</rss>	
