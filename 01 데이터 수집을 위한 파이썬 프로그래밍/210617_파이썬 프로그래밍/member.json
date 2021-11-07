@@ -1,0 +1,14 @@
+﻿[
+	{
+		"name": "홍길동",
+		"age": 20,
+		"email": "kildong@hong.com",
+		"address": "서울시 강동구"
+	},
+	{
+		"name": "홍길서",
+		"age": 25,
+		"email": "kilseo@hong.com",
+		"address": "서울시 강서구"
+	}
+]
